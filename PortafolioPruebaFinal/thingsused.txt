@@ -1,4 +1,0 @@
-*"SMTPJs" to receive the name, email address and phonenumber from people filling our form.
-
-*"SweetAlert2" npm supports multiple types of alerts, including success messages, error messages, warnings, and confirmation dialogs
-allowing to give style to those alerts.
